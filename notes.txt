@@ -1,0 +1,4 @@
+Jobdeks
+-membuat database apotek
+-buat 5 tabel
+-input data
