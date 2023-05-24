@@ -1,0 +1,6 @@
+STORY BOARD
+-Membuat usecase diagram
+-membuat flowchart
+-membuat wireframe
+-membuat prototype
+-mendemokan Hasil Prototype
